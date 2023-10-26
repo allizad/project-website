@@ -2,7 +2,7 @@
 
 eventdate: 2023-09-27 08:00:00 -0700
 title: OpenSearchCon - 2023
-online: 
+online:
 signup:
     url: https://opensearchcon2023.splashthat.com/
     title: Register to attend
